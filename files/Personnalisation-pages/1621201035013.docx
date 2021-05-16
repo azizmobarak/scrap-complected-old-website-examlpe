@@ -1,0 +1,31 @@
+Personnalisation pages
+Ajout d'une page
+
+Pour ajouter une page, il faut appuyer sur le bouton correspondant à cette action dans le haut de la page.
+
+Après l'appui du bouton, le formulaire d'ajout d'une page apparait.
+
+Image: permet de sélectionner l'image qui sera affichée sur l'onglet de sélection de la page.
+Nom: titre de l'onglet de sélection de la page.
+Nb colonnes: sélection du type de page (Page avec un ou deux widgets par colonne). Les widgets disponibles dépendent du type de page.
+Modification d'une page
+
+Pour modifier la page courante, il faut appuyer sur le bouton correspondant à cette action dans la boite à outils. 
+
+Après l'appui sur le bouton, le formulaire de modification apparait.
+
+Image: permet de modifier l'image qui sera affichée sur l'onglet de sélection de la page.
+
+Nom: permet de modifier le titre de l'onglet de sélection de la page.
+
+Déplacement d'une page
+
+Il est possible de changer l'ordre des pages dans le tableau de bord. Pour déplacer une page, il faut appuyer sur l'onglet de la page, maintenir le clic et déplacer l'onglet à la position voulue.
+
+Ajouter un widget à une page
+
+Pour ajouter un widget, il faut ouvrir la boite à outils. Puis cliquer sur l'icone ajouter un widget à la page. 
+
+Après l'appui sur le bouton, une page apparait représentant la bibliothèque des widgets. Tous les widgets disponibles pour l'utilisateur y sont présent.
+
+Une fois le widget sélectionné dans la colonne de droite, il faut appuyer sur le bouton ajouter. Une fois le bouton pressé le widget est ajouté à la page.

@@ -1,0 +1,12 @@
+Recherche
+
+Les circuits sont présentés sous la forme d'un arbre. Pour sélectionner un circuit, il faut cocher la checkbox qui lui correspond dans l'arbre. Il est possible de sélectionner tous les circuits d'une catégorie en cochant la checkbox située à coté du nom de la catégorie.
+
+La recherche par circuit possède un moteur de recherche. Pour rechercher un circuit , il faut rentrer son nom ou sa catégorie dans le formulaire et valider.
+
+La position de chaque véhicule présent dans le tableau est affichée sur la carte (premier onglet du panneau central) à l'aide d'une icône représentant la catégorie de véhicule.
+
+L'icône 3D est orientée en fonction de la direction (cap) en temps réel du véhicule.
+
+Tableau de résultats
+Boîte à outils

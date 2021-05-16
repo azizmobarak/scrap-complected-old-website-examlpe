@@ -1,0 +1,16 @@
+Tableau de résultats
+
+Une fois la recherche effectuée, le panneau de gauche présente la liste des véhicules répondant aux critères de recherche (chauffeurs).
+
+Le tableau de résultats contient les colonnes suivantes :
+
+état du contact
+circuit en cours d'exécution
+état du chrono
+numéro de parc
+catégorie du véhicule
+boîte à outils
+
+La position de chaque véhicule présent dans le tableau est affichée sur la carte (premier onglet du panneau central) à l'aide d'une icône repésentant la catégorie de véhicule.
+
+L'icône 3D est orientée en fonction de la direction (cap) en temps réel du véhicule.

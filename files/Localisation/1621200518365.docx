@@ -1,0 +1,11 @@
+Localisation
+
+L'onglet "localisation" présente un tableau de tous les résultats.
+
+Les colonnes présentes sont :
+
+numéro parc
+catégorie
+date/heure de la position
+adresse
+vitesse (km/h)

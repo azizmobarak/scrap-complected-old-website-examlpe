@@ -1,0 +1,19 @@
+Description
+
+Les types d'objets ainsi que leur attributs spécifiques sont gérés par Sabatier et ne sont pas administrables.
+
+Le module "Gestion des objets" permet d'administrer des objets cartographiques en fonction de leur type.
+
+La liste déroulante permet de choisir un type d'objet à administrer (les objets et le panneau de gauche se chargent lorsqu'une option de la liste est choisie).
+
+Les actions disponibles (en fonction des droits de l'utilisateur connecté) sont les suivantes :
+
+Ajout d'une catégorie
+Edition d'une catégorie
+Suppression d'une catégorie
+Ajout d'un objet
+Edition d'un objet
+Suppression d'un objet
+Export KML des objets
+
+La gestion des catégories se trouve dans le module d'administration, onglet Catégories.

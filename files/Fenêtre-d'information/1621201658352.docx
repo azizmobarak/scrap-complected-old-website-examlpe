@@ -1,0 +1,12 @@
+Fenêtre d'information
+
+La fenêtre d'information réagit aux actions sur le graphique.
+
+Lors du clic sur une position du graphique elle affiche le détail des relevés du graphique.
+
+Lors de la sélection de postion dans le graphique la fenêtre d'information affiche les moyennes des données.
+
+Les informations sur la consommation.
+Les informations sur les capteurs
+Les informations sur le régime moteur.
+Les informations sur le chrono-tachygraphe.

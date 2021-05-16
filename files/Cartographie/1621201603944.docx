@@ -1,0 +1,9 @@
+Cartographie
+
+La cartographie réagit aux actions sur le graphique.
+
+Lors du clic sur une position du graphique elle affiche cette position.
+
+Il est possible de cliquer sur cette position pour faire apparaitre une infobulle contenant différentes informations dont la localisation.
+
+Lors d'une sélection de position dans le graphique, la cartographie affiche en surbrillance les positions sélectionnées.

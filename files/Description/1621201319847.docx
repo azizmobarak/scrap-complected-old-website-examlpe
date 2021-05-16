@@ -1,0 +1,14 @@
+Description
+
+Le diagnostic permet la visualisation des informations d'un véhicule à une date donnée.
+
+Ces informations sont :
+
+Les positions GPS
+La vitesse
+La consommation
+Les capteurs analogiques
+Les capteurs Tout Ou Rien
+Le chrono-tachygraphe
+
+Ces différentes données sont représentées dans le temps sous la forme de graphique interactif. Le trajet du véhicule s'affiche lui sur une cartographie.

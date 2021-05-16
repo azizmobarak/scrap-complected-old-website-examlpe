@@ -1,0 +1,18 @@
+Description du TDB
+Présentation
+
+Le tableau de bord est prévu pour être la page d'accueil de l'application.
+
+Cet espace a pour but de mettre à portée de clic les informations les plus utiles à l'utilisateur.
+
+Le TDB est entièrement paramétrable. Il est possible pour un client de créer un tableau de bord unique pour tous les utilisateurs ou de laisser les différents utilisateurs gérer leur propre tableau de bord.
+
+Structure du TDB
+
+Un tableau de bord est divisé en plusieurs pages et chacune de ces pages contient des Widgets.
+
+C'est dans les widgets que sont affichées les différentes informations que l'utilisateur veut afficher (ex : la liste des véhicules ayant une identification chauffeur).
+
+Les widgets ont pour vocation d'afficher des informations ne nécessitant pas ou peu de calcul (ex : l'état du chrono de toute la flotte à l'instant t).
+
+Les widgets ne peuvent pas afficher de rapport.

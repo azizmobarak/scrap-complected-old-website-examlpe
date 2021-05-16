@@ -1,0 +1,22 @@
+Général
+
+Dans le tableau du panneau de gauche, certaines colonnes affichent des bulles d'informations au survol de la souris.
+
+Les informations complémentaires affichées dans ces bulles peuvent être :
+
+date et heure de la dernière mesure
+
+état chrono et date/heure de la dernière imputation
+
+nom du circuit en cours d'exécution et date/heure de début de l'exécution
+
+planning prévu pour le véhicule
+
+état du contact et vitesse du véhicule
+
+Un bouton en bas de liste permet d'exporter au format KML tous les résultats (véhicules qui ont une position temps réel). 
+
+Pour chaque onglet, excepté l'onglet "carte" :
+
+chaque tableau est ordonnable en cliquant sur chacune des colonnes et filtrable.
+les boutons dans le pied du tableau permettent d'exporter les résultats aux formats CSV,Excel ou PDF

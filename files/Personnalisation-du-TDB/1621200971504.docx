@@ -1,0 +1,58 @@
+Personnalisation du TDB
+Présentation
+
+La personnalisation du TDB permet à un utilisateur d'organiser son TDB.
+
+Il est possible de:
+
+- Personnaliser un widget (Changer le titre,la couleur,paramètrer,etc...)
+
+- Ajouter et supprimer des pages
+
+- Ajouter et supprimer des widgets
+
+Il existe deux types de personnalisation du TDB:
+
+- espace personnel
+
+- espace commun
+
+Espace personnel: cette personnalisation apportera des modification uniquement à son propre TDB.
+
+Espace commun: cette personnalisation apportera des modification au TDB commun (Le TDB commun est celui utilisé par tous les utilisateurs n'ayant pas de TDB personel configuré).
+
+Par défaut, l'utilisateur se trouve sur son espace personnel.
+
+Principe de la personnalisation
+
+Toutes les modifications apportées au TDB sont conservées jusqu'à la fin de la session utilisateurs.
+
+Si l'utilisateur n'a pas enregistré les modifications avant la fin de la session alors les modifications seront perdues
+
+La boite à outils
+
+Les utilisateurs ayant le droit de personnaliser ont sur l'écran une boite à outils(en haut à gauche). 
+
+Un clic sur cette boite permet d'afficher les outils de personnalisation.
+
+Sauvegarde du TDB
+
+Dès que le tableau de bord est modifié, une icone apparait en haut à droite de la page pour signaler que le TDB a été modifié: 
+
+Mais une fois la session terminée, si les modifications ne sont pas sauvegardées, elles seront perdues.
+
+Pour sauvegarder le Tableau de bord il faut ouvrir la boite à outils et appuyer sur le bouton d'enregistrement: 
+
+Une fois le bouton de sauvegarde appuyé un message de confirmation apparait.
+
+Si la modification est confirmée le tableau de bord est sauvegardé.
+
+Annuler les modifications du TDB
+
+Si les modifications apportées au tableau de bord ne conviennent pas, il est possible d'annuler les modifications. Toutefois, il est impossible d'annuler des modifications enregistrées.
+
+Pour annuler les modifications, il faut ouvrir la boite à outils et appuyer sur le bouton: 
+
+Une fois le bouton d'annulation appuyé un message de confirmation apparait.
+
+Si l'annulation est confirmée le tableau de bord retourne à l'état du dernier enregistrement.

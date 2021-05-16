@@ -1,0 +1,13 @@
+Missions
+
+L'onglet "Missions" présente un tableau de la liste des missions en cours.
+
+Les colonnes présentes sont :
+
+Véhicule
+Immat.
+Nom : nom de la mission
+Début: heure de début de la mission
+État: état de la mission
+Depuis: Heure de début de l'état courant
+Durée: temps depuis le début de l'état courant

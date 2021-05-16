@@ -1,0 +1,27 @@
+Boîte à outils
+
+Pour chaque véhicule, une boîte à outils est disponible en dernière colonne du tableau.
+
+Mode listeMode interactif
+1
+2
+3
+4
+5
+6
+7
+	
+1
+Accéder aux outils
+2
+Historique des messages
+3
+Envoyer un message
+4
+Dernier historique
+5
+Dernier diagnostic
+6
+Dernier circuit exécuté
+7
+Zoomer sur le véhicule

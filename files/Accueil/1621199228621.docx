@@ -1,0 +1,22 @@
+Accueil
+
+La page d'accueil permet d'afficher les menus de GeoRed sur une même page. Cette fonctionnalité est soumise à droit.
+
+En plus du droit attribué à l'utilisateur, il peut choisir dans ses paramètres d'afficher ou non la page de menu, dans la section "Page d'accueil".
+
+Modification de la page d'accueil
+
+Attention, le fait de changer votre page d'accueil dans les paramètres rechargera l'application, vous ne resterez donc pas forcément sur le module affiché lors de la manipulation.
+
+Si l'utilisateur a le droit associé et qu'il a choisi d'afficher le menu en page d'accueil, alors la page d'accueil GeoRed n'est plus le Temps Réel, mais la page ci-dessous :
+
+Cette page remplace le menu GeoRed classique qui apparaît dans la section haute.
+
+Mode listeMode interactif
+1
+2
+	
+1
+Module
+2
+Retour au menu

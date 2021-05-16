@@ -1,0 +1,58 @@
+Mot de passe oublié ?
+
+La fonctionnalité "mot de passe oublié" est disponible dès la page d'identification :
+
+Mode listeMode interactif
+1
+2
+3
+4
+5
+	
+1
+Connexion
+2
+Changement de langue
+3
+Mot de passe oublié
+4
+Nouveautés
+5
+Date de la version actuelle
+Procédure de réinitialisation du mot de passe
+
+Pour réinitialiser votre mot de passe, cliquer sur le lien au dessus du bouton de connexion.
+
+Une fenêtre s'ouvre. Vous devez saisir votre login utilisateur et le nom de votre société.
+
+Cliquer sur le bouton "Réinitialiser".
+
+Si l'utilisateur n'a pas été trouvé, un message s'affiche :
+
+Si l'utilisateur a été trouvé et qu'il existe une adresse e-mail pour ce compte, alors un message de confirmation d'envoi d'un e-mail s'affiche :
+
+Après quelques minutes, un e-mail est arrivé dans votre boîte électronique.
+
+Vérifiez également dans les spams, car l'e-mail envoyé contient un lien pour accéder à la réinitialisation de votre mot de passe.
+
+Validité du lien
+
+Le lien cliquable dans l'e-mail reçu est valable 15 minutes seulement.
+
+Cliquer sur le lien pour accéder à la page de redéfinition du mot de passe
+
+Sécurité
+
+Le mot de passe doit respecter les règles suivantes : minimum 12 caractères, dont au moins un chiffre, une majuscule, une minuscule et un caractère spécial (%, #, :, $, *, @).
+
+Si le mot de passe saisi ne respecte pas les règles de sécurité, alors un message s'affichera sous le formulaire de saisie.
+
+Si les mots de passe saisis ne sont pas identiques, alors un message s'affichera sous le formulaire de saisie.
+
+Si le mot de passe respecte les règles de sécurité, alors vous serez redirigé vers la page d'identification de l'application.
+
+Une erreur est survenue
+
+Si cet écran s'affiche alors que vous tentiez de redéfinir votre mot de passe :
+
+il est probable que les 15 minutes soient déjà écoulées. Dans ce cas, il faut recommencer la procédure depuis la page de connexion, en cliquant sur le lien "Mot de passe oublié", au dessus du bouton "Connexion".

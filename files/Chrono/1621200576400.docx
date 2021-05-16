@@ -1,0 +1,13 @@
+Chrono
+
+L'onglet "chrono" présente un tableau de tous les résultats.
+
+Les colonnes présentes sont :
+
+numéro parc
+catégorie
+date/heure de la position
+état du chrono
+libellé de l'état du chrono
+
+Pour filtrer sur les états chrono en alerte, saisir "alerte" dans le champ de recherche sur la colonne.

@@ -1,0 +1,7 @@
+Supprimer un objet
+
+Pour supprimer un objet cliquer sur l'icône "supprimer" de la dernière colonne du tableau sur la ligne concernée.
+
+Un message de confirmation s'affiche.
+
+Après la suppression, un message s'affiche en bas de l'écran. Le bandeau est vert si l'action a été effectuée avec succès, rouge sinon.

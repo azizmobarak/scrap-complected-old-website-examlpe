@@ -1,0 +1,8 @@
+Description du module Zones
+
+Ce module permet d'administrer les zones. Les fonctionnalités disponibles sont les suivantes :
+
+Consultation des zones : tableau du panneau de gauche + icône loupe permettant de zoomer sur une zone
+Ajout de zones grâce à la boîte à outils cartographique
+Edition des zones
+Suppression des zones

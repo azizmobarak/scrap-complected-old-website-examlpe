@@ -1,0 +1,19 @@
+Liste des objets
+
+Un objet a toujours les attributs suivants :
+
+Nom (obligatoire)
+Description
+Latitude (obligatoire)
+Longitude (obligatoire)
+N° rue
+Rue
+Code postal
+Ville
+Type (obligatoire)
+
+Selon son type, il peut avoir d'autres attributs.
+
+Le tableau contenant les objets peut être filtré (en entrant des caractères dans le champ "filtre") et trié (clic sur une entête de colonne).
+
+Une "boîte à outils" au pied du tableau permet d'exporter les informations qu'il contient dans différents formats (CSV, Excel avec extension csv, PDF).

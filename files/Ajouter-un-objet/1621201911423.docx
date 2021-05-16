@@ -1,0 +1,15 @@
+Ajouter un objet
+
+Pour ajouter un objet, cliquer sur l'icône "+" dans l'entête de la dernière colonne du tableau.
+
+Le formulaire d'ajout d'un objet propose plusieurs champs : les champs de base obligatoires, ainsi que les champs propres au type de l'objet.
+
+Pour placer l'objet sur la carte, cliquer sur le bouton "positionner l'objet". Pour remplir automatiquement les champs relatifs à l'adresse lors du placement de l'objet sur la carte (aide à la saisie), cocher la case "Positionnement auto. sur une rue".
+
+Puis, cliquer sur la carte à l'endroit souhaité.
+
+Si l'adresse n'est pas trouvée, les champs ne sont pas remplis et une fenêtre annonce que l'adresse n'a pu être trouvée.
+
+Le fait de n'avoir pu trouver l'adresse n'est pas une erreur, il s'agit uniquement de la localisation du point qui a échoué. Vous pouvez renseigner l'adresse à la main, replacer le point ou laisser en l'état. Les informations d'adresse ne sont pas obligatoires.
+
+Si besoin, cliquer sur le bouton "Repositionner le point" pour replacer l'objet et suivre la même procédure que celle décrite ci-dessus.

@@ -1,0 +1,27 @@
+Description du module Historique
+Présentation
+
+Le module historique permet de visualiser l'historique des positions GPS des différents véhicules de la flotte.
+
+Il est possible de consulter l'historique de l'activité d'un véhicule jusqu'a trois mois en arrière.
+
+Le module historique est accessible à partir du menu de l'application.
+
+L'icone correspondante est:
+
+Le module est divisé en deux parties:
+
+une partie recherches et résultats
+une partie cartographie pour afficher les positions des différents historiques
+
+Il est possible de rechercher un historique par trois critères différents:
+
+Recherche par véhicule
+Recherche par chauffeur
+Recherche par circuit
+
+Une fois les critères sélectionnés, il faut définir les dates de la recherche.
+
+Il est également possible de cocher l'option "Afficher les identifications de bacs" (en fonction des droits de l'utilisateur, l'option peut ne pas être présente).
+
+Attention le nombre d'historiques ne peut pas dépasser 20.

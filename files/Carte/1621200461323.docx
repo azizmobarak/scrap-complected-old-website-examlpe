@@ -1,0 +1,7 @@
+Carte
+
+Une fois la recherche effectuée, la position de chaque véhicule présent dans le tableau est affichée sur la carte (premier onglet du panneau central) à l'aide d'une icône représentant la catégorie de véhicule.
+
+Un clic sur l'icône représentant un véhicule permet d'afficher dans une fenêtre les informations complémentaires relatives à l'état du véhicule.
+
+L'icône 3D est orientée en fonction de la direction (cap) en temps réel du véhicule.

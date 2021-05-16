@@ -1,0 +1,9 @@
+Recherche
+
+Les véhicules et catégories sont présentés sous forme d'un arbre. Les catégories sont représentées par les dossiers, renfermant chacun les véhicules associés.
+
+Un champ "Sélection des véhicules" permet de rechercher une/des catégorie(s) ou un/des véhicule(s) et ainsi de filtrer l'arbre pour qu'il ne contienne plus que les éléments recherchés.
+
+Pour filtrer l'arbre, entrer un libellé ou une partie du libellé dans le champ, puis cliquer sur l'icône "loupe" (ou appuyer sur la touche "Entrée").
+
+Pour effectuer une recherche en temps réel, cocher les cases correspondant aux véhicules choisis, puis cliquer sur le bouton "Valider".
