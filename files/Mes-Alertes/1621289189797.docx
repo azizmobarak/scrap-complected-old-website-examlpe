@@ -1,0 +1,18 @@
+Mes Alertes
+
+Ce module permet de visualiser l'ensemble des alertes en cours.
+
+Mode listeMode interactif
+1
+2
+3
+4
+	
+1
+Tous les messages
+2
+Réception
+3
+Moteur d'alerte
+4
+Liste des alertes en cours

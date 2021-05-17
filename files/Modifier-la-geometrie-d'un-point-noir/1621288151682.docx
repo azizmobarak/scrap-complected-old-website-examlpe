@@ -1,0 +1,22 @@
+Modifier la géométrie d'un point noir
+Pour modifier la géométrie d'un point noir, procéder comme suit :
+
+Les outils disponibles pour modifier la géométrie d'un point noir sont les suivants :
+
+- transformation / rotation de la forme 
+
+- déplacement des sommets de la forme (uniquement pour les polygones) 
+
+- déplacement de la forme 
+
+Repérer le point noir sur la carte, ou bien zoomer sur celui-ci à l'aide de l'outil loupe de la liste des points noirs. Activer le contrôle de modification souhaité en cliquant sur celui-ci, en haut à droite de la carte. Cliquer ensuite sur la forme à modifier.
+
+La forme est sélectionnée et prête à être modifiée.
+
+Effectuer l'action souhaitée (déplacer un sommet, déplacer la forme ou redimensionner la forme), puis relâcher le bouton de la souris.
+
+Une fenêtre de confirmation d'enregistrement de l'action apparaît.
+
+Cliquer sur "Annuler" ou "Valider" selon si vous souhaitez enregistrer ou non la modification.
+
+Après validation, un message de confirmation de l'enregistrement de la modification s'affiche.

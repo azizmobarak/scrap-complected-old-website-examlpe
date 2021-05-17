@@ -1,0 +1,15 @@
+Suppression d'un type de contrainte
+
+Un type de contrainte peut être supprimé, si aucun point noir n'est lié à ce type de contrainte.
+
+Pour supprimer un type de contrainte, procéder comme suit :
+
+Cliquer sur le bouton "supprimer"  présent dans la dernière colonne de la ligne correspondant au type de contrainte à supprimer. Si cette icône n'apparaît pas, alors vous n'avez pas le droit de supprimer les types de contraintes.
+
+Si des points noirs sont liés à ce type de contrainte, une fenêtre d'alerte s'affiche :
+
+Sinon, une confirmation est demandée :
+
+En cliquant sur "Annuler", la suppression ne sera pas effectuée et la fenêtre de confirmation disparaîtra.
+
+En cliquant sur "Valider", le type de contrainte est définitivement supprimé. Il disparaît de la liste dans le panneau de gauche. Un bandeau vert contenant un message de confirmation de la suppression apparaît en bas de l'écran. Ce bandeau disparaît automatiquement après quelques secondes.

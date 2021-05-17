@@ -56,15 +56,24 @@ await clickpage(page,'.nestedThemeLnk ',0);
 
 await setTimeout(async() => {
     try{
-        await clickpage(page,'.nestedTopicLnk ',7);
+        await clickpage(page,'.nestedTopicLnk ',12);
        setTimeout(async() => {
           try{
-            await clickpage(page,'.nestedTopicLnk ',0);
+            await clickpage(page,'.nestedTopicLnk ',3);
             setTimeout(async() => {
               try{
                 await clickpage(page,'.nestedTopicLnk ',2);
                 setTimeout(async() => {
-                 await download(page);
+                  try{
+                    await clickpage(page,'.nestedTopicLnk ',0);
+                    setTimeout(async() => {
+                     await download(page);
+                   },7000);
+                  }catch{
+                    setTimeout(async() => {
+                     await download(page);
+                   },7000);
+                  }
                },7000);
               }catch{
                 setTimeout(async() => {
@@ -110,7 +119,7 @@ const download=async(page)=>{
 
           
           var name = await page.evaluate(()=>{
-            return  document.querySelector('iframe').contentDocument.querySelector("h1").textContent.trim().replaceAll(' ','-').replaceAll('é','e').replaceAll('?','');
+            return  document.querySelector('iframe').contentDocument.querySelector("h1").textContent.trim().replaceAll(' ','-').replaceAll('é','e').replaceAll('?','').replaceAll('/','');
           })
 
           var folder = name;

@@ -1,0 +1,38 @@
+Ajout d'un point noir de type segment
+Outils d'aide à la création des segments
+
+Lors de la création des segments du point noir, des outils sont mis à disposition afin :
+
+- d'effacer le dernier segment dessiné
+
+- de redessiner le dernier segment effacé
+
+- de supprimer tous les segments créés afin de reprendre entièrement le tracé
+
+Si tous les segments dessinés sont effacés grâce à l'outil de dessin "annuler", alors il n'est plus possible de les redessiner. Cela équivaut à l'action "Effacer tout" .
+
+Les segments d'un point noir de ce type doivent tous être consécutifs et se trouver sur une route.
+
+Il n'est pas possible d'ajouter des segments ne se trouvant pas sur la voirie à ce type de point noir.
+
+A chaque nouvelle intersection de rue, un nouveau segment de route existe.
+
+Pour ajouter un point noir de type segment, procéder comme suit :
+
+Cliquer sur l'icône en haut à droite de la carte pour ouvrir le formulaire de création d'un point noir de type segment.
+
+Le formulaire de création d'un point noir de type segment s'affiche. Le message d'alerte "ce champ est requis" signifie que le champ nom du point noir doit être rempli avant de cliquer sur le bouton "Valider" du formulaire.
+
+Saisir un nom pour le nouveau point noir. La description du point noir n'est pas obligatoire. Choisissez un type de contrainte, puis une vitesse dans les listes déroulantes respectives. Enfin, cocher ou non la case "activer ce point noir". Pour dessiner un segment, double cliquer une fois sur la carte.
+
+Un segment routier correspondant au point cliqué s'affiche.
+
+Pour créer un second segment, répéter l'opération autant de fois que nécessaire., en cliquant le plus près possible des extrémités des segments déjà dessinés.
+
+Si le clic est trop éloigné des extrémités des segments déjà dessinés, une fenêtre contenant un message s'affiche :
+
+Pour créer le point noir, cliquer sur "Valider". Sinon, un clic sur la croix en haut à droite du formulaire d'ajout annulera la création du point noir et effacera les segments dessinés sur la carte.
+
+Si le nom du point noir est déjà utilisé, un bandeau rouge contenant un message s'affichera en bas de l'écran. Le formulaire reste ouvert pour permettre à l'utilisateur de conserver les informations saisies et de modifier uniquement le nom. Cliquer sur la croix en haut à droite du bandeau rouge pour le faire disparaître.
+
+Si le point noir a été créé avec succès, le formulaire disparaît, le nouveau point noir apparaît dans la liste et sur la carte, puis un message de confirmation dans un bandeau vert apparaît en bas de l'écran. Ce bandeau vert disparaît automatiquement après quelques secondes.

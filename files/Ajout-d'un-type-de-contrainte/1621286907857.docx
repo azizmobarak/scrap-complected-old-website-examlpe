@@ -1,0 +1,16 @@
+Ajout d'un type de contrainte
+Pour ajouter un type de contrainte, procéder comme suit :
+
+Pour cette section, vous aurez besoin de manipuler la fenêtre de sélection de couleur.
+
+Cliquer sur le bouton "ajouter"  présent dans l'entête de la dernière colonne de la liste. Si cette icône n'apparaît pas, alors vous n'avez pas le droit d'ajouter un type de contrainte.
+
+Un écran d'attente s'affiche pendant le chargement du formulaire. Ensuite, le formulaire de saisie d'un nouveau type de contrainte s'affiche.
+
+Le message d'alerte "ce champ est requis" signifie que le champ nom de la contrainte doit être rempli avant de cliquer sur le bouton "Valider" du formulaire.
+
+Saisir un nom pour le nouveau type de contrainte. Choisissez une icône, puis une vitesse dans les listes déroulantes respectives. Choisir une couleur à l'aide de l'outil de sélection de couleur. Cliquer sur le bouton "Valider".
+
+Si le nom du type de contrainte est déjà utilisé, un bandeau rouge contenant un message s'affichera en bas de l'écran. Le formulaire reste ouvert pour permettre à l'utilisateur de conserver les informations saisies et de modifier uniquement le nom. Cliquer sur la croix en haut à droite du bandeau rouge pour le faire disparaître.
+
+Si le type de contrainte a été créé avec succès, le formulaire disparaît, la liste des types de contraintes se met à jour et un message de confirmation dans un bandeau vert apparaît en bas de l'écran. Ce bandeau vert disparaît automatiquement après quelques secondes.

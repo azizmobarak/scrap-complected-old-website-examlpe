@@ -1,0 +1,23 @@
+Exporter les zones
+
+Le bouton  situé sous la liste des zones permet d'exporter la liste des zones au format csv séparé par des points virgules encodé en UTF-8.
+
+Nom : Nom de la zone
+Adresse  : Adresse du point d’accès de la zone (seulement s'il est raccordable à une route)
+X : Longitude (centre)
+Y : Latitude (centre)
+Polygone : Liste des points formant la zone
+Classe : Donnée interne Simpliciti
+Xmin : Longitude minimale de la zone
+Ymin : Latitude minimale de la zone
+Xmax : Longitude maximale de la zone
+Ymax : Latitude maximale de la zone
+Rayon : Rayon pour les zones de type cercle
+TypeZone : Type de zone 'P' pour Polygone, 'R' pour rayon (cercle)
+Login : Login de l'utilisateur qui à crée la zone
+Partage :1 si la zone est partagée
+PartageEdition  : 1 si la zone est partagée en édition
+Analyse : 1 si la zone sert dans les analyses
+Interne : 1 Si c'est une zone de type interne
+AccesX : Longitude du point d'accès
+AccesY : Latitude du point d'accès

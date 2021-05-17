@@ -1,0 +1,19 @@
+Types de zones
+
+Toutes les fonctionnalités décrites dans ce chapitre sont soumises à droit.
+
+Ce module permet d'ajouter, éditer et supprimer les types de zones utilisées pour la gestion des zones.
+
+L'administration des types de zones est accessible depuis le module zone, en cliquant sur le titre "Types de zone" sous la liste des zones.
+
+Mode listeMode interactif
+1
+2
+3
+	
+1
+Tri
+2
+Ajouter
+3
+Editer

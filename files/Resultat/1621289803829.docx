@@ -1,0 +1,14 @@
+Résultat
+Le résultat du calcul d'itinéraire se compose de deux parties
+Résultat sur la carte
+
+Le résultat s'affiche sur la carte sous forme d'une série de "marqueurs" (A,B..) représentant les étapes, ainsi que l'itinéraire les reliant.
+
+La feuille de route
+
+Le résultat s'affiche (dans la partie basse de la carte) sous la forme d'une feuille de route. Celle-ci décompose l'itinéraire en une série d'instructions.
+
+Deux actions sont possibles sur la feuille de route:
+
+Mettre en surbrillance la partie correspondant à une instruction (icône œil)
+Mettre en surbrillance la partie correspondant à une instruction et zoomer dessus (icône loupe)

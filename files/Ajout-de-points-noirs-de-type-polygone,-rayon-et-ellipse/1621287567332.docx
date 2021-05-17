@@ -1,0 +1,54 @@
+Ajout de points noirs de type polygone, rayon et ellipse
+Pour ajouter un point noir de type polygone, procéder comme suit :
+
+Cliquer sur l'icône en haut à droite de la carte pour activer le dessin d'un polygone.
+
+Lorsque la souris passe sur la carte, un point bleu est visible au bout du curseur. Cela signifie que l'option de dessin d'un polygone est activée.
+
+Pour placer les points du polygone, cliquer sur la carte aux endroits où vous souhaitez placer les sommets du polygone. (simple clic)
+
+Le polygone est en cours de dessin.
+
+Pour terminer le dessin du polygone, double-cliquer sur le dernier sommet souhaité.
+
+Une fenêtre de confirmation s'affiche. La forme du polygone s'affiche sur la carte en noir.
+
+Cliquer sur "Valider" pour passer à l'étape suivante : le renseignement des informations du point noir. dans le formulaire de création
+
+Un clic sur "Annuler" ferme la fenêtre de confirmation et détruit le polygone tracé précédemment. Aucun point noir n'est créé.
+
+Pour ajouter un point noir de type rayon (cercle), procéder comme suit :
+
+Cliquer sur l'icône en haut à droite de la carte pour activer le dessin d'un point noir de type cercle. Pour commencer à tracer le cercle, cliquer sur la carte à l'endroit souhaité du centre du cercle, et maintenir le bouton gauche de la souris enfoncé.
+
+Pendant le dessin du cercle, une fenêtre grise s'affiche. Elle indique le rayon du cercle.
+
+Pour terminer le dessin du cercle, relâcher le bouton de la souris lorsque le rayon souhaité est atteint.
+
+Une fenêtre de confirmation s'affiche. La forme du cercle s'affiche sur la carte en noir.
+
+Cliquer sur "Valider" pour passer à l'étape suivante : le renseignement des informations du point noir. dans le formulaire de création
+
+Un clic sur "Annuler" ferme la fenêtre de confirmation et détruit le cercle tracé précédemment. Aucun point noir n'est créé.
+
+Pour ajouter un point noir de type ellipse, procéder comme suit :
+
+Cliquer sur l'icône en haut à droite de la carte pour activer le dessin d'un point noir de type ellipse. Pour commencer à tracer l'ellipse, cliquer sur la carte et maintenir le bouton gauche de la souris enfoncé.
+
+Pour terminer le dessin de l'ellipse, relâcher le bouton de la souris lorsque la taille souhaitée est atteinte.
+
+Une fenêtre de confirmation s'affiche. La forme de l'ellipse s'affiche sur la carte en noir.
+
+Cliquer sur "Valider" pour passer à l'étape suivante : le renseignement des informations du point noir. dans le formulaire de création
+
+Un clic sur "Annuler" ferme la fenêtre de confirmation et détruit l'ellipse tracée précédemment. Aucun point noir n'est créé.
+
+Renseignement du formulaire d'ajout
+
+Le message d'alerte "ce champ est requis" signifie que le champ nom du point noir doit être rempli avant de cliquer sur le bouton "Valider" du formulaire.
+
+Saisir un nom pour le nouveau point noir. La description du point noir n'est pas obligatoire. Choisissez un type de contrainte, puis une vitesse dans les listes déroulantes respectives. Enfin, cocher ou non la case "activer ce point noir". Cliquer sur le bouton "Valider".
+
+Si le nom du point noir est déjà utilisé, un bandeau rouge contenant un message s'affichera en bas de l'écran. Le formulaire reste ouvert pour permettre à l'utilisateur de conserver les informations saisies et de modifier uniquement le nom. Cliquer sur la croix en haut à droite du bandeau rouge pour le faire disparaître.
+
+Si le point noir a été créé avec succès, le formulaire disparaît, le nouveau point noir apparaît dans la liste et sur la carte, puis un message de confirmation dans un bandeau vert apparaît en bas de l'écran. Ce bandeau vert disparaît automatiquement après quelques secondes.

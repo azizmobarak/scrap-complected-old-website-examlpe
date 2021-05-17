@@ -1,0 +1,16 @@
+Gestion des types de contraintes
+
+La gestion des types de contraintes permet, selon les droits de l'utilisateur connecté :
+
+- de voir les types de contraintes
+
+- d'en ajouter
+
+- de les éditer
+
+- de les supprimer
+
+Liste des types de contraintes
+Ajout d'un type de contrainte
+Modification d'un type de contrainte
+Suppression d'un type de contrainte

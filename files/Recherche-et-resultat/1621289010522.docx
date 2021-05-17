@@ -1,0 +1,7 @@
+Recherche et résultat
+
+Le formulaire permet de rechercher des missions par véhicule ou chauffeur + date(s).
+
+Les résultats sont triés par date.
+
+Un clic sur une date permet de déployer les missions exécutées à cette date.

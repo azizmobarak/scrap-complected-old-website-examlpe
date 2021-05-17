@@ -1,0 +1,27 @@
+Consulter / éditer / supprimer le planning d'un point noir
+
+Le planning d'un point noir est représenté par l'icône dans la liste des points noirs.
+
+Cliquer sur l'icône du point noir choisi dans la liste des points noirs.
+
+Le planning du point noir s'affiche, tandis que la carte est recentrée sur le point noir choisi. Un zoom est effectué sur le point noir.
+
+Pour supprimer un planning, cliquer sur la croix en face de la période concernée (dernière colonne de la liste des plannings du point noir).
+
+Une fenêtre de confirmation s'affiche.
+
+Un clic sur annuler permet de stopper la suppression.
+
+Un clic sur le bouton "Valider" permet de supprimer le planning.
+
+Pour ajouter un planning, sélectionner une date de début et une date de fin en cliquant dans les champs "date" des sections "Début" et "Fin".
+
+Les messages d'alertes s'affichent si les formats des données ne sont pas respectés :
+
+Le bouton "Valider" est grisé : cela signifie que le formulaire comporte des erreurs et ne peut être validé en l'état.
+
+Saisir des heures au format valide "hh :mm", puis cliquer sur "Valider".
+
+Un écran d'attente apparaît. Lorsqu'il disparaît, un message de confirmation s'affiche en bas de l'écran dans un bandeau vert.
+
+La liste des plannings du point noir est mise à jour avec la nouvelle plage de dates.

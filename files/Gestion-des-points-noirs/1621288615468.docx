@@ -1,0 +1,25 @@
+Gestion des points noirs
+
+La liste des points noirs est disponible dans le panneau de gauche à l'ouverture du module. Les points noirs sont dessinés sur la carte.
+
+Il existe plusieurs façon d'interagir sur les points noirs :
+
+- via la cartographie : la légende des outils mis à disposition est consultable dans le panneau rétractable en bas de l'écran
+
+- via la liste des points noirs dans le panneau de gauche
+
+Durant le chargement de la liste des points noirs, un message s'affiche sur la liste :
+
+Deux options sont disponibles au dessus de la liste des points noirs. Elles permettent, en cliquant sur le texte, de :
+
+- Voir les points noirs : recentre la carte et adapte le zoom pour permettre d'avoir une vue d'ensemble de tous les points noirs
+
+- Cacher les points noirs : permet de masquer les points noirs sur la carte
+
+Le filtre au dessus de la liste permet d'appliquer un filtre sur la liste des points noirs. Il est actif sur le nom du point noir et le nom du type de contrainte.
+
+Zoomer sur un point noir
+Ajout d'un nouveau point noir
+Consulter / éditer / supprimer le planning d'un point noir
+Modification des points noirs
+Suppression d'un point noir

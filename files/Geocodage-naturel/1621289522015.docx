@@ -1,0 +1,18 @@
+Géocodage naturel
+Natural Geocoding
+Recherche
+
+Le natural geocoding permet de situer une adresse sur une cartographie. Afin de trouver le point correspondant sur la carte à l'adresse cherché suffit de ne renseigner qu'un seul champ.
+
+Ce champs doit être de la forme : " pays, région, département, ville, rue, numéro de rue "
+
+Résultat
+Plusieurs résultats
+
+S'il existe plusieurs résultats possibles en fonction des critères (par exemple si deux villes ont le même nom dans deux départements différents), une liste de choix vous est proposée.
+
+Le formulaire est alors automatiquement complété avec les critères correspondants au choix éffectué, il ne reste plus qu'à le valider.
+
+Résultat final
+
+Une fois les ambiguïté éventuelles levées, le résultat s'affiche sur la carte sous forme d'un marqueur. La fenêtre de natural geocoding affiche quant à elle l'adresse complète et la possibilitées d'effectuer une nouvelle recherche.

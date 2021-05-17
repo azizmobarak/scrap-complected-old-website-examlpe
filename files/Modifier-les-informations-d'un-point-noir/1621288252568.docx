@@ -1,0 +1,14 @@
+Modifier les informations d'un point noir
+Pour modifier les informations d'un point noir, procéder comme suit :
+
+Cliquer sur le bouton "éditer"  présent dans la dernière colonne de la ligne correspondant au point noir à modifier. Si cette icône n'apparaît pas, alors vous n'avez pas le droit de modifier les points noirs.
+
+Un écran d'attente s'affiche pendant le chargement du formulaire. Ensuite, le formulaire de modification du point noir choisi s'affiche.
+
+Modifier les informations souhaitées.
+
+Cliquer sur le bouton "Valider" (pour annuler, cliquer sur la croix en haut à droite de la fenêtre contenant le formulaire d'édition).
+
+Si un autre point noir porte le même nom, un message s'affiche dans un bandeau rouge en bas de la page. Pour fermer ce bandeau, cliquer sur la croix en haut à droite de celui-ci. Le formulaire d'édition du point noir reste ouvert afin de permettre à l'utilisateur de modifier sa saisie.
+
+Si le point noir a pu être modifié avec succès, le formulaire disparaît et un message de confirmation s'affiche en bas de l'écran, dans un bandeau vert. Ce bandeau disparaît après quelques secondes.

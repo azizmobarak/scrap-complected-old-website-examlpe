@@ -1,0 +1,30 @@
+Modification d'un type de contrainte
+Pour modifier un type de contrainte, procéder comme suit :
+
+Pour cette section, vous aurez besoin de manipuler la fenêtre de sélection de couleur.
+
+Cliquer sur le bouton "éditer"  présent dans la dernière colonne de la ligne correspondant au type de contrainte à modifier. Si cette icône n'apparaît pas, alors vous n'avez pas le droit de modifier les types de contraintes.
+
+Un écran d'attente s'affiche pendant le chargement du formulaire. Ensuite, le formulaire de modification du type de contrainte choisi s'affiche.
+
+Modifier les informations souhaitées.
+
+La modification peut porter sur toutes les informations du type de contrainte :
+
+- Nom
+
+- Icône
+
+- Vitesse limite (en km/h)
+
+- Couleur
+
+Cliquer sur le bouton "Valider" (pour annuler, cliquer sur la croix en haut à droite de la fenêtre contenant le formulaire d'édition).
+
+Si le nom du type de contrainte est déjà utilisé, un bandeau rouge contenant un message s'affichera en bas de l'écran. Le formulaire reste ouvert pour permettre à l'utilisateur de conserver les informations saisies et de modifier uniquement le nom. Cliquer sur la croix en haut à droite du bandeau rouge pour le faire disparaître.
+
+Si le type de contrainte a été modifié avec succès, le formulaire disparaît, la liste des types de contraintes se met à jour et un bandeau vert apparaît en bas de l'écran.
+
+Si la couleur et/ou l'icône du type de contrainte ont été modifiées, la liste des points noirs ainsi que le dessin des points noirs se met à jour également.
+
+Le bandeau vert disparaît automatiquement après quelques secondes.

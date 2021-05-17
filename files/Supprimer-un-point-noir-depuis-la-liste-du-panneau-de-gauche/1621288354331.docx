@@ -1,0 +1,11 @@
+Supprimer un point noir depuis la liste du panneau de gauche
+
+Dans la liste des points noirs, repérez le point noir à supprimer, puis cliquez sur l'icône correspondante "supprimer" .
+
+La carte se centre sur le point noir à supprimer, un zoom est également effectué.
+
+Une fenêtre de confirmation de la suppression apparaît.
+
+Pour annuler, cliquer sur le bouton de la fenêtre "Annuler". La fenêtre disparaît et le point noir n'est pas supprimé. Pour confirmer la suppression, cliquer sur "Valider".
+
+Le point noir n'est plus visible sur la carte, il n'est plus visible dans la liste non plus. Un message de confirmation de la suppression s'affiche dans un bandeau vert en bas de l'écran. Le bandeau vert disparaît automatiquement après quelques secondes.

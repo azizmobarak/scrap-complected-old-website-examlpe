@@ -1,0 +1,16 @@
+Ajout d'un nouveau point noir
+
+Avant de créer un nouveau point noir, vérifier que le type de contrainte à lui attribuer a bien été préalablement créé.
+
+La procédure de création d'un point noir dépend de la nature de celui-ci :
+
+- ellipse
+
+- cercle (type "rayon")
+
+- polygone
+
+- segment
+
+Ajout de points noirs de type polygone, rayon et ellipse
+Ajout d'un point noir de type segment

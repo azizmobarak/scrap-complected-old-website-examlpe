@@ -1,0 +1,29 @@
+Points Noirs
+
+Le module point noir sert à décrire toutes les zones ou sections de route demandant une attention particulière au conducteur.
+
+Tous les points noirs actifs de type segment (sans planning ou dont le planning est valable pour le date et l'heure données) seront pris en compte dans le calcul d'itinéraire.
+
+Toutes les fonctionnalités décrites dans ce module sont soumises à droit.
+
+Interface du module Points Noirs
+Mode listeMode interactif
+1
+2
+3
+4
+5
+	
+1
+Liste
+2
+Zoom
+3
+Liste des types de contraintes
+4
+Import
+5
+Légende
+Gestion des types de contraintes
+Gestion des points noirs
+Import des points noirs

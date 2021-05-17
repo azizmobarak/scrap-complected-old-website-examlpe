@@ -1,0 +1,8 @@
+Description
+
+Le module messagerie permet :
+
+de consulter les messages (et leur statut : reçu ou non) envoyés aux véhicules
+d'envoyer des messages aux véhicules (un ou plusieurs en même temps)
+de gérer les messages prédéfinis
+de consulter les messages envoyés depuis les véhicules

@@ -1,0 +1,29 @@
+Calcul d'itinéraire
+
+Si des points noirs de type "segment" sont actifs (sans planning ou dont le planning est valable pour le date et l'heure données) sur le compte client, ceux-ci seront pris en compte dans le calcul d'itinéraire.
+
+Recherche
+
+Le calcul d'itinéraire permet de :
+
+calculer l'itinéraire reliant plusieurs adresses en fonction de critères spécifiés par l'utilisateur
+de fournir une feuille de route de cet itinéraire
+Saisie des étapes
+
+Les étapes sont représentées par des champs nommés "A" et "B". Il et possible d'ajouter une étape à l'itinéraire en cliquant sur "+Ajouter une destination" ou d'en supprimer une en cliquant sur "X". Ces destinations sont limitées à 26 soit de "A" jusqu'à "Z".
+
+La saisie des étapes se fait par simple clic sur les champs nommés "A" "B", faisant apparaître les champs de saisie de l'adresse de l'étape souhaitée.
+
+Au moins deux étapes sont nécessaires au calcul d'un itinéraire.
+
+Choix des options
+
+Plusieurs options sont possibles pour le calcul de l'itinéraire
+
+Trajet le plus rapide (avec péage)
+Trajet le plus court
+Éviter les ferries
+Éviter les autoroutes
+Éviter les péages
+Caractéristiques du véhicule
+Pondération de vitesse

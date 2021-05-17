@@ -1,0 +1,17 @@
+Localiser une latitude/longitude
+Reverse Geocoding
+Recherche
+
+Le reverse geocoding permet de retrouver l'adresse correspondant à un couple de coordonnées (longitude latitude) et de la situer sur la carte.
+
+Les champs à renseigner sont:
+
+Longitude (obligatoire)
+Latitude (obligatoire)
+
+Ce module est aussi accessible depuis un double clic sur la carte si l'utilisateur a le droit correspondant :
+
+Résultat
+Résultat final
+
+Le résultat s'affiche sur la carte sous forme d'un marqueur. La fenêtre du reverse geocoding affiche quant à elle l'adresse complète et la possibilitées d'effectuer une nouvelle recherche.

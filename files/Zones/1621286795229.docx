@@ -1,0 +1,11 @@
+Zones
+Prérequis
+
+Attention, la gestion des zones ne permet pas de rendre disponible ce module sur un compte fils en connexion depuis le compte père (sélection d'un autre client dans la liste visible après identification).
+
+Si un utilisateur se connecte depuis un compte père, le message "Vous devez vous connecter avec un compte utilisateur appartenant à client_fils" s'affiche.
+
+Toutes les fonctionnalités décrites dans ce module sont soumises à droit.
+
+Dans le module zone
+Dans les autres modules
