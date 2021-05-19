@@ -1,0 +1,60 @@
+Résultats de la recherche
+
+Une fois la recherche validée, les résultats s'affichent dans le panneau de gauche, et le formulaire se rétracte.
+
+Les résultats sont groupés par date, puis par véhicule ou circuit selon le type de recherche effectué.
+
+En cliquant sur la date, puis sur le véhicule ou circuit, cela déplie les résultats. Les identifications sont alors visibles :
+
+Après avoir coché la ou les identifications souhaitées, deux choix sont possibles en bas des résultats. Cliquer sur le bouton "Afficher les identifications" qui permet d'afficher une liste d'identification de bacs ou sur le bouton "Afficher la synthèse" qui est soumis à un droit et permet d'afficher un récapitulatif du nombre d'échecs lors de la collecte des bacs.
+
+Pour chacun des choix, une série de boutons apparaîtra, suivie d'un tableau contenant la liste des résultats au dessous.
+
+Les boutons permettent d'effectuer :
+
+Un export de la liste au format CSV
+Un export de la liste au format Excel
+Visualiser à nouveau toutes les identifications
+
+Représentation des identifications
+
+Une icône rouge représentera un bac non collecté, tandis qu'une icône bleue signifie que le bac a été collecté.
+
+Affichage d'un historique véhicule
+
+Si la recherche est effectuée par véhicule, une icône est présente à côté du nom du véhicule. Un clic sur celle-ci permet d'afficher les positions du véhicule sur la carte, pour la date spécifiée au-dessus.
+
+Afficher les identifications
+
+Pour afficher une seule identification et zoomer dessus, cliquer sur la loupe de la première colonne. Un clic sur l'icône de l'identification sur la cartographie permet d'afficher les informations relatives à l'identification dans la fenêtre.
+
+Les informations affichées sont les suivantes :
+
+DATE
+HEURE
+VÉHICULE
+CIRCUIT
+PUCE
+POIDS
+ADRESSE
+CHAISE
+IDENTIFIÉ
+LEVÉE STOPPÉ
+POINT HAUT ATTEINT
+BLACKLISTÉ (en liste noire)
+Afficher la synthèse
+
+La liste des résultats est triée par défaut dans l'ordre de priorité suivant : la date, le nom du véhicule puis le nom du circuit.
+
+La synthèse permet de faire un cumul des bacs qui n'ont pas été identifiés, autorisés ou collectés et d'afficher uniquement ces points sur la carte.
+
+Pour une date donnée et un même véhicule dont les lectures de bacs n'ont pas été réalisées sur circuit, elles seront regroupées entre elles.
+
+Les informations affichées sont les suivantes :
+
+DATE
+VÉHICULE
+CIRCUIT
+NON IDENTIFIÉ
+NON AUTORISÉ
+NON COLLECTÉ

@@ -1,0 +1,14 @@
+Trouver les véhicules proches
+Après une recherche d'adresse
+
+Après une recherche d'adresse par les widgets "Localiser un adresse", "Géocodage naturel", et "Localiser une latitude/longitude", il est possible de trouver les véhicules proches de cette adresse.
+
+Après avoir cliqué sur "Trouver les véhicules proches", un champ texte apparait où il est possible de préciser le rayon de recherche de véhicule, en kilomètres, que l'on souhaite effectuer autour de l'adresse.
+
+Plusieurs actions sont dès lors possible.
+
+"Retour" permet de fermer la recherche de véhicules proches.
+"Prévisualiser" permet de lancer la recherche et d'afficher les véhicules et la zone de recherche (cercle) sur la carte.
+Après double-clic sur la carte
+
+Il est possible de définir l'adresse à partir de laquelle on peut rechercher des véhicules proches, en double cliquant sur la carte

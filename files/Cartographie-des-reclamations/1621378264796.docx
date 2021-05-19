@@ -1,0 +1,17 @@
+Cartographie des réclamations
+
+Les différentes plaintes sont représentées sur la cartographie par l'icône:
+
+Lorsqu'un clic est effectué sur une plainte une infobulle est affichée.
+
+L'infobulle contient les informations suivantes :
+
+Le nom de la réclamation
+Le numéro de réclamation
+L'état de la réclamation
+La date de passage à l'état courant
+Le nom du plaignant.
+Le type de réclamation
+La date de création de la réclamation
+Le créateur de la réclamation
+Un lien vers la consultation de la réclamation

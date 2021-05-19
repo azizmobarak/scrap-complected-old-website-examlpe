@@ -1,0 +1,57 @@
+Recherche
+Sommaire
+Recherche par date
+Recherche par véhicule
+Filtre par type d'évènement
+Filtre par Adresse
+Affichage des résultats
+
+Plusieurs critères de recherche permettent de sélectionner les évènements à afficher sur la carte. Ces critères sont inclusifs, ils peuvent être combinés à loisir.
+
+Recherche par date
+
+Ce critère est obligatoire.
+
+La sélection de la date se fait à l'aide d'un calendrier. Il est possible d'en sélectionner une ou plusieurs. Il est possible d'ajouter un filtre sur les heures de manière optionnelle.
+
+Si l'on choisit de l'appliquer pour "chaque jour", le filtre s'appliquera pour chacune des dates sélectionnées.
+
+Si l'on choisit "période", l'heure de début s'appliquera à la première date et l'heure de fin à la dernière.
+
+Recherche par véhicule
+
+Ce critère est obligatoire s'il n'y a pas de chauffeur sélectionné.
+
+La sélection des véhicules se fait à l'aide d'une arborescence. Les catégories de véhicules sont représentées par les dossiers, renfermant chacun les véhicules associés.
+
+Un champ "Sélection des véhicules" permet de rechercher une/des catégorie(s) ou un/des véhicule(s) et ainsi de filtrer l'arbre pour qu'il ne contienne plus que les éléments recherchés.
+
+Pour filtrer l'arbre, entrer un libellé ou une partie du libellé dans le champ, puis cliquer sur l'icône "loupe" (ou appuyer sur la touche "Entrée").
+
+Enfin un lien "Tous" et "Aucun" permet de sélectionner/désélectionner en une fois l'ensemble des catégories et des véhicules
+
+Filtre par type d'évènement
+
+En cochant une ou plusieurs cases, il est possible de filtrer les résultats de la recherhce par type d'évènement.
+
+Lorsque la case est cochée, la liste des intitulés est affichée. Celle ci permet de filtrer les résultats par intitulé. En maintenant la touche CTRL enfoncée, on peut sélectionner plusieurs intitulés dans la liste.
+
+Filtre par Adresse
+
+Le filtre par adresse permet d'afficher uniquement les évènements dont la localisation se situe à l'adresse spécifiée.
+
+Les différents champs permettent de renseigner l'adresse recherchée.
+
+Afin de vérifier et valider cette adresse (éviter les erreurs de saisie, etc.), il suffit ensuite de cliquer sur le bouton "Rechercher l'adresse".
+
+Si une ambiguïté existe, une liste déroulante de suggestions apparait. Elle permet de choisir l'adresse souhaitée.
+
+Une autre solution pour renseigner une adresse et d'utiliser le bouton 
+
+Une fois cette fonction activée (bouton appuyé), un clic sur la cartographie renseignera les différents champs du filtre en fonction de la localisation du clic.
+
+Affichage des résultats
+
+la partie "Afficher par" permet de choisir la façon de grouper les résultats : par date, puis par chauffeur/véhicule
+
+ou par chauffeur/véhicule, puis date

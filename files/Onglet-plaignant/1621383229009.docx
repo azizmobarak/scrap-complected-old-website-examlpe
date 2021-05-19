@@ -1,0 +1,34 @@
+Onglet plaignant
+Sommaire
+Description
+Plaignant
+Adresse
+Validation
+Description
+
+Cet onglet permet d'enregistrer la personne qui a formulée la réclamation.
+
+Les informations à renseigner obligatoirement sont:
+
+Le nom du plaignant
+Le numéro de téléphone
+La longitude et la latitude du plaignant
+Plaignant
+
+Il est possible de rechercher un plaignant déjà enregistré à partir du bouton situé à côté du champ prénom: 
+
+La recherche prend en compte le nom et le prénom du plaignant. Une fois la recherche effectuée une liste de plaignants est affichée.
+
+Pour sélectionner un plaignant à partir de cette liste, il suffit de cliquer sur le bouton de la ligne correspondante au plaignant.
+
+Si aucun plaignant n'est trouvé, un message d'erreur est affiché.
+
+Adresse
+
+Les champs rue, code postal et ville du formulaire ne peuvent être remplis manuellement. Ils sont obligatoirement remplis à partir du formulaire de recherche d'adresse. Le formulaire de recherche d'adresse est accessible à partir du bouton: 
+
+La documentation concernant le module de sélection d'une adresse est accessible dans la documentation à la section "recherche adresse".
+
+Validation
+
+Une fois toutes les informations concernant le plaignant renseignées, on peut passer à la saisie de la réclamation en appuyant sur le bouton « suivant ». Avant le passage à la saisie de la réclamation, les informations du formulaire concernant le plaignant sont validées.

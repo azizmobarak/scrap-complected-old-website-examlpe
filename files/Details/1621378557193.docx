@@ -1,0 +1,25 @@
+Détails
+
+Le détail des événements apparaît lorsque l'utilisateur clique sur l'icone "loupe" ou sélectionne un ensemble d’événement, grâce aux case à cocher, et clique sur le bouton "Afficher"
+
+Liste des détails des événements
+
+L'affichage du détails des événement se fait dans la partie basse de la page dans un tableau triable, qui contient également les informations décrites dans la Configuration événements rapport.
+
+Chaque ligne correspond à un événement. Au début de chaque ligne une loupe permet de n'afficher que l’événement correspondant sur la carte. Le lien "Voir tous les événements" permet de revenir à l'affichage de tous les événements.
+
+Le survol des icônes des messages d'exploitation fait apparaître les messages saisis par le chauffeur si ceux-ci sont présents.
+
+Cartographie
+
+Les événements sélectionnés pour détails s'affiche sur la cartographie sous la forme de marqueur dont l'image est celle du type de l’événement.
+
+Un clic sur ces marqueurs fait apparaître une infobulle contenant les détails de l’événement et les informations décrites dans la Configuration événements rapport.
+
+Photographies
+
+Si des images sont liées à l’événement, un icône appareil photo() s'affiche sur la ligne.
+
+Cliquer sur cette image ouvre une fenêtre qui affiche la ou les photographies.
+
+Une icône imprimer () en bas de le fenêtre permet d'imprimer le contenu de celle ci.

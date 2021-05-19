@@ -1,0 +1,9 @@
+Description
+
+« Cartographie des évènements » est un module permettant de visualiser sur la carte les évènements survenus.
+
+Actuellement, trois types d'évènements sont gérés :
+
+message d'exploitation 
+anomalies 
+statuts 

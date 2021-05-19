@@ -1,0 +1,18 @@
+Résultat de la recherche
+
+Une fois les critères de recherche renseignés, un clic sur le bouton « Valider » lance la recherche des évènements correspondants.
+
+Affichage par nom de véhicule/chauffeur
+
+Si le bouton radio « Véhicule/Chauffeur » est coché, les résultats sera regroupés par nom de véhicule/chauffeur.
+
+Liste des évènements
+
+Sous chaque groupe (nom de véhicule ou date), la liste des évènements correspondants aux critères de recherche est proposée.
+
+Cette liste est composée de quatre colonnes.Pour chaque évènement correspondant aux critères de recherche, les colonnes correspondent à :
+
+1ère colonne: case à cocher permettant de sélectionner l'évènement
+2ème colonne: icône du type d'évènement
+3ème colonne: intitulé de l'évènement
+4ème colonne: outil « loupe » permettant de visualiser l'évènement sur la carte

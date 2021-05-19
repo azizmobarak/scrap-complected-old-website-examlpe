@@ -1,0 +1,18 @@
+Derniers véhicules passés à une adresse
+Après une recherche d'adresse
+
+Après une recherche d'adresse par les widgets "Localiser un adresse", "Géocodage naturel", et "Localiser une latitude/longitude", il est possible de trouver les derniers véhicules passés à l'adresse sélectionnée.
+
+Après avoir cliqué sur "Derniers véhicules passés", La recherche se lance, l'ensemble des historiques des véhicules de la flotte sera analysé par ordre chronologique inverse, sur une durée maximale de 30 jours. La durée de traitement est donc dépendante du nombre de véhicules à traiter. Le rayon de détection autour de l'adresse sélectionnée est de 25m.
+
+Un pourcentage de progression apparaît ainsi que les véhicules qui ont été traité. Si le nom du véhicule apparaît en rouge alors il n'y a pas eu de résultat, si le nom apparaît en vert alors un historique à été trouvé. Il est possible de stopper le traitement avant la fin de la recherche, se qui affichera les résultats partiels.
+
+Les résultats sont affichés dans un tableau à 3 colonnes:
+
+Nom du véhicule
+
+Date heure du passage à l'adresse sélectionnée
+
+Voir l'historique de ce véhicule
+
+En cliquant sur "Voir l'historique de ce véhicule" une fenêtre s'ouvre affichant l'historique du véhicule passant par l'adresse sélectionnée.

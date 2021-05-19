@@ -1,0 +1,31 @@
+Application principale
+
+L'application principale permet de visualiser les véhicules en temps réel, consulter les historiques, les circuits, etc.
+
+Sauvegarde de la sélection pour la session
+
+En fonction du paramétrage client, une icône peut être disponible en bas à gauche du formulaire de recherche : . Un clic sur cette icône permet de conserver la sélection tout le long de la session utilisateur. Si le paramètre client est activé, cette fonctionnalité prend le pas sur le chargement automatique des préférences utilisateur.
+
+Page d'identification
+Accueil
+Temps réel
+Tableau de bord
+Historique
+Diagnostic
+Gestion des objets
+Zones
+Points Noirs
+Missions
+Mes Alertes
+Messages
+Recherche adresse
+Gestion des réclamations
+Cartographie des évènements
+Identifications
+Visualisation des circuits de référence
+Visualisation des modèles de mission
+Visualisation des portiques
+Viabilité Hivernale
+Profil utilisateur
+Cartographie
+Centre de notification

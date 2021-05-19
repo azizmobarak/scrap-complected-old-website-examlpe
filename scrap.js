@@ -56,13 +56,13 @@ await clickpage(page,'.nestedThemeLnk ',0);
 
 await setTimeout(async() => {
     try{
-        await clickpage(page,'.nestedTopicLnk ',12);
+        await clickpage(page,'.nestedTopicLnk ',14);
        setTimeout(async() => {
           try{
-            await clickpage(page,'.nestedTopicLnk ',3);
+            await clickpage(page,'.nestedTopicLnk ',2);
             setTimeout(async() => {
               try{
-                await clickpage(page,'.nestedTopicLnk ',2);
+                await clickpage(page,'.nestedTopicLnk ',0);
                 setTimeout(async() => {
                   try{
                     await clickpage(page,'.nestedTopicLnk ',0);
@@ -110,6 +110,8 @@ const clickpage=async(page,htmlclass,number)=>{
 }
 
 
+
+
 const download=async(page)=>{
     var date = new Date();
     
@@ -120,6 +122,10 @@ const download=async(page)=>{
           
           var name = await page.evaluate(()=>{
             return  document.querySelector('iframe').contentDocument.querySelector("h1").textContent.trim().replaceAll(' ','-').replaceAll('é','e').replaceAll('?','').replaceAll('/','');
+          })
+
+          var cookie  = await page.evaluate(()=>{
+            return document.cookie;
           })
 
           var folder = name;
@@ -133,28 +139,7 @@ const download=async(page)=>{
 
         await page.screenshot({path: "./files/"+folder+'/'+folder+"1.png"});
 
-        // await page.waitFor(5000);
 
-        // await page.evaluate(async() => {
-        //     await new Promise((resolve, reject) => {
-        //         var totalHeight = 0;
-        //         var distance = 100;
-        //         var timer = setInterval(() => {
-        //             var scrollHeight = document.body.scrollHeight;
-        //             window.scrollBy(0, distance);
-        //             totalHeight += distance;
-    
-        //             if (3000 >= scrollHeight) {
-        //                 clearInterval(timer);
-        //                 resolve();
-        //             }
-        //         }, 100);
-        //     });
-        // });
-
-        // await page.screenshot({path: "./files/"+folder+'/'+folder+"2.png"});
-
-        // Download Images 
 
         var images  = await page.evaluate(()=>{
             var data = [];
@@ -174,7 +159,7 @@ const download=async(page)=>{
             //    var base = "http://preprod-casa-geored.geored.fr";
             // var url = new URL(images[img],base)
             const encodedURI = encodeURI(images[img]);
-            const response =await fetch(encodedURI,{headers: {"Cookie" : "CAKEPHP=t2he21bhb4nl54g8jq351d8n30"}})
+            const response =await fetch(encodedURI,{headers: {"Cookie" : cookie}})
             const buffer = await response.buffer();
 
             var extenstion = ".png";

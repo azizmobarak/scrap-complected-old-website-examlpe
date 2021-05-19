@@ -1,0 +1,68 @@
+Liste des réclamations
+Sommaire
+Liste des réclamations
+Informations complémentaires
+Actions disponibles
+Export CSV
+Liste des réclamations
+
+Lors de l'affichage du module, toutes les réclamations actives sont affichées (réclamations non supprimées).
+
+La liste des réclamations contient les informations suivantes:
+
+État de la réclamation
+
+Nom de la réclamation
+
+Date de création
+
+Les réclamations sont triées par état et par nom.
+Informations complémentaires
+
+Lors du passage de la souris sur une réclamation des informations complémentaires sont affichées.
+
+Les informations sont les suivantes:
+
+Numéro de la réclamation
+Nom de la réclamation
+Le plaignant
+La date de création de la réclamation
+Le type de réclamation
+L'état courant de la réclamation
+Date de passage à l'état courant
+Login du créateur de la réclamation
+Actions disponibles
+
+Pour chacune des réclamations de la liste, des actions sont disponibles en fonction des droits de l'utilisateur
+
+Les actions disponibles sont dans l'ordre:
+
+Centrer la cartographie sur la plainte
+Consulter la réclamation
+Supprimer la réclamation
+
+Export CSV
+
+Il est possible d'exporter la liste des réclamations à partir du bouton situé en bas de la liste. 
+
+L'export ne concerne que l'état courant pour chacune des actions d'une réclamation.
+
+L'export contient les informations suivantes :
+
+Le type de la réclamation
+Le numéro de la réclamation
+La date de création de la réclamation
+Le libellé de la réclamation
+L'état courant de la réclamation
+La date de l'état courant
+La description de la réclamation
+L'adresse de la réclamation
+Le code postal de la réclamation
+La ville de la réclamation
+Le nom du plaignant
+Le téléphone fixe du plaignant
+Le téléphone mobile du plaignant
+L'adresse du plaignant
+L'action à mener
+L'état de l'action à mener
+Le véhicule affecté à l'action

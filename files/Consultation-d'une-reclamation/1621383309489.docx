@@ -1,0 +1,30 @@
+Consultation d'une réclamation
+Description
+
+Pour consulter une réclamation, il faut appuyer sur le bouton de la ligne correspondant à la réclamation dans la liste des réclamations.
+
+La consultation d'une réclamation affiche le même formulaire que pour l'ajout d'une réclamation, enrichi d'un onglet historique.
+
+Dans l'onglet réclamation, la réclamation est affichée dans son état courant. Toutes les informations concernant les états antérieurs sont disponibles dans l'onglet historique.
+
+Onglet historique
+
+L'onglet historique, permet de visualiser toutes les opérations qui ont été effectuées sur la réclamation.
+
+Les informations sont affichées dans deux tableaux :
+
+Le premier contient l'historique de la réclamation (modification de la plainte, changement de statut, modification du plaignant...). Les opérations sont affichées par date décroissante.
+Le second contient l'historique des différents états des actions à mener que contient la réclamation. Les opérations sur les actions sont triées par action et par date décroissante.
+Édition d'une réclamation
+
+Pour accéder à l'édition d'une réclamation, il faut appuyer sur le bouton "modifier" dans l'écran de consultation de la réclamation.
+
+À chaque fois qu'une réclamation est modifiée, une ligne est ajoutée à l'historique de la réclamation.
+
+Impression d'une réclamation
+
+Pour imprimer une réclamation il faut appuyer sur le bouton: 
+
+Ce bouton est situé dans la partie haute du module.
+
+Après l'appui sur le bouton, un PDF est généré. Il est alors possible de l'imprimer ou de le sauvegarder.
