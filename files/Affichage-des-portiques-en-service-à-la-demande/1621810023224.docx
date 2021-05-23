@@ -1,0 +1,14 @@
+Affichage des portiques en service à la demande
+
+Le widget est disponible dans la barre de menus de la carte. Il est représenté par l'icône 
+
+Lorsque l'on clique sur l'icône, le widget de recherche apparaît.
+
+Les options disponibles sont les suivantes :
+
+Afficher un par un les portiques : afficher seulement le dernier portique recherché (si la case est décochée, tous les portiques recherchés seront ajoutés à la carte).
+Zoomer sur le portique recherché : effectuer un zoom sur le dernier portique recherché.
+
+Une autosuggestion se déclenche lorsque l'utilisateur saisit le début du libellé d'un portique dans le champ "Rechercher un portique en service".
+
+Lors du clic sur un portique de la liste, celui ci est placé sur la cartographie et affiché selon les options choisies au dessus.

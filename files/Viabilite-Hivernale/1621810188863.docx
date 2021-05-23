@@ -1,0 +1,50 @@
+Viabilité Hivernale
+
+Ce module est soumis à droits spécifiques
+
+L'interface du module est divisée comme suit :
+
+- Une colonne à gauche présentant un formulaire de recherche par véhicule ou par circuit.
+
+- Une fenêtre principale sur la droite présentant la carte.
+
+Une fois le formulaire validé, les filtres et la liste des véhicules concernés apparaissent.
+
+Écran du module après validation
+Mode listeMode interactif
+1
+2
+3
+4
+5
+6
+7
+8
+	
+1
+Carte
+2
+Filtres
+3
+Filtre sur le niveaux de service
+4
+Supprimer tous les filtres
+5
+Liste des véhicules
+6
+Voir les positions
+7
+Effacer les positions
+8
+Recherche d'adresse
+
+Pour chaque véhicule, une boîte à outils est disponible en dernière colonne du tableau.
+
+Mode listeMode interactif
+1
+2
+3
+4
+5
+6
+7

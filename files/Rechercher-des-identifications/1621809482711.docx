@@ -1,0 +1,44 @@
+Rechercher des identifications
+Rechercher des identifications
+
+Sélectionner des véhicules ou des circuits dans l'onglet prévu à cet effet.
+
+Il est possible de filtrer l'arbre :
+
+Sélection d'une ou plusieurs dates.
+
+Sélectionner les dates souhaitées en cliquant sur les jours du calendrier choisis.
+
+Les filtrage des heures fonctionne de la façon suivante :
+
+Par exemple, nous souhaitons avoir toutes les identifications, pour chaque date choisie, de 09h00 à 12h00. Il faut :
+
+cocher "chaque jour".
+entrer "09h00" dans "Début" et "12h00" dans "Fin".
+
+Si l'on souhaite avoir toutes les identifications, de 09h00 à partir de la date de début, et jusqu'à 12h00 pour la date de fin, il faut :
+
+cocher "période".
+entrer "09h00" dans "Début" et "12h00" dans "Fin".
+
+Filtrer par adresse
+
+Il est possible de filtrer les bacs par adresse. Pour ce faire, entrer les informations adéquates dans le formulaire prévu à cet effet :
+
+Si l'on saisit "rousseau" dans le nom de rue, et "Montpellier" dans le champ ville, alors toutes les identifications dont la ville est "Montpellier" et dont le nom de rue contient "rousseau" seront remontées. Il est possible d'accéder à une adresse plus précise avec le bouton "Rechercher l'adresse".
+
+Le comparateur "contient" est utilisé pour tous les champs adresse, sauf "pays" et "ville", qui sont eux comparés exactement aux informations de l'adresse relative à la levée.
+
+Filtrer par critères spécifiques
+
+Numéro de puce contient
+
+L'onglet "Critères" permet de filtrer par numéro de puce, mais aussi de récupérer uniquement les bacs identifiés/autorisés/collectés ou non.
+
+Si l'on saisit "DF74" dans le champ "Numéro de puce contient", alors uniquement les numéros de puces contenant la chaîne seront récupérés.
+
+Bacs
+
+Lorsque la case "Tous" de la section "Bacs" est décochée, il est possible de filtrer les bacs qui ont été identifiés, autorisés, collectés ou non.
+
+Lorsque tous les filtres sont en place, cliquer sur "Valider".

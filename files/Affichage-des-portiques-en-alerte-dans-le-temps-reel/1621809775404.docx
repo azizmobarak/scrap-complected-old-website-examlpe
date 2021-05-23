@@ -1,0 +1,13 @@
+Affichage des portiques en alerte dans le temps réel
+
+Les portiques en alerte sont affichés dans le temps réel si l'utilisateur a choisi d'afficher le calque dans ses préférences.
+
+Les portiques affichés en vert sont affectés à un technicien.
+
+Les portiques affichés en rouge ne sont pas encore affectés à un technicien.
+
+Lorsque l'on clique sur une icône représentant un portique, les informations associées apparaissent dans une popup
+
+Portique en alerte non attribué :
+
+Portique en alerte attribué :

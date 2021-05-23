@@ -1,0 +1,20 @@
+Affichage des conteneurs
+
+L'affichage ou non des calques est disponible en cliquant sur l’icône "+" en haut à droite de la carte.
+
+Un claque "conteneurs" permet d'afficher à partir d'un niveau suffisant de zoom les emplacements des conteneurs. Ce calque est disponible sur les modules Temps réel, Identification et Historique. Ces icônes sont interactives. Un clic sur une icône de conteneur affiche des informations relatives à ce conteneur.
+
+Activation
+
+Si l'option lui est disponible, l'utilisateur peut activer le calque "Conteneurs" dans Menu utilisateur > Paramètres utilisateur > onglet Affichage > Carto > Couches à afficher sur la carte > Cocher la case "Conteneurs".
+
+NB : pour que les conteneurs apparaissent sur la carte, il faut suffisamment zoomer. En effet, étant donné le nombre de conteneurs, un zoom trop large rendrait la carte illisible.
+
+Informations détaillées
+
+Au clic sur une icone de conteneur, après un temps de chargement, une fenêtre apparaît. Elle contient les informations relatives à ce conteneur.
+
+Pour fermer cette popup, cliquer sur la croix en haut à droite au regard de l'identification du conteneur.
+
+Voir aussi
+Profil utilisateur

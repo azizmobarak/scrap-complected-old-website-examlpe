@@ -1,0 +1,42 @@
+Centre de notification
+
+Le centre de notification est accessible en cliquant sur cette icône dans le menu :
+
+Ce module permet :
+
+- de lister tous les messages des notifications.
+
+- de faire des recherches par véhicule, par notification, par dates.
+
+- de visualiser le détail de chaque message (véhicule, alerte, détail du message, etc.).
+
+- de localiser sur la carte les messages recherchés.
+
+- de marquer les messages comme lu (ou non lu) et de faire des recherche sur les messages lus ou non lus.
+
+Mode listeMode interactif
+1
+2
+3
+4
+5
+6
+7
+8
+	
+1
+Liste des messages des notifications
+2
+Recherche
+3
+Localiser
+4
+Ouvrir un message
+5
+Marquer un message comme lu
+6
+Détail d'un message
+7
+Carte avec notifications géolocalisées.
+8
+Infobulle

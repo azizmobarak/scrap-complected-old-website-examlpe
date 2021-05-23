@@ -1,0 +1,56 @@
+Visualisation des circuits de référence
+Sommaire
+Présentation du widget
+Liste des circuits
+Liste des tronçons
+Derniers passages sur un tronçon
+Présentation du widget
+
+Le widget est disponible dans la barre de menus de la carte. Il est représenté par l'icône 
+
+Il permet d'afficher les circuits de référence sur la cartographie.
+
+Ce module comporte trois principales sections :
+
+Le formulaire de recherche, composé d'une liste des catégories de circuits.
+La liste des circuits disponibles en fonction de la catégorie recherchée.
+La liste des tronçons du circuit sélectionné.
+
+Pour rechercher des circuits, sélectionner une catégorie dans la liste, puis cliquer sur le bouton "Valider".
+
+Liste des circuits
+Fenêtre "Liste des circuits"
+Mode listeMode interactif
+1
+2
+3
+4
+5
+	
+1
+Ordre des circuits
+2
+Afficher un circuit
+3
+Superposer ce circuit sur la carte
+4
+Vider la carte
+5
+Légende
+Liste des tronçons
+
+La liste des tronçons est ordonnable (clic sur la colonne sur laquelle on souhaite ordonner la liste) et filtrable par colonne.
+
+Un clic sur la loupe en début de ligne permet de mettre en surbrillance le tronçon sélectionné et de zoomer dessus.
+
+Un clic sur une ligne permet de mettre en surbrillance le tronçon sélectionné sans zoomer dessus.
+
+Les boutons radio dans l'entête du tableau permettent de filtrer les tronçons selon leur état : tous, en alerte, correct.
+
+La case à cocher "Appliquer le filtre à la carte" permet de mettre en évidence les tronçons correspondants aux filtres. Les tronçons ne correspondants pas aux filtres, qui n'apparaissent donc pas dans le tableau sont alors affichés en gris.
+
+Derniers passages sur un tronçon
+
+Dans la liste des tronçons cliquer sur l'horloge permet d’accéder à une liste des 5 derniers passages effectués sur celui-ci.
+
+Dans la liste des 5 derniers passages sur un tronçon, cliquer sur la loupe permet d’accéder à l’exécution correspondante du circuit.

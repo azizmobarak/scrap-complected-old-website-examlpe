@@ -56,10 +56,10 @@ await clickpage(page,'.nestedThemeLnk ',0);
 
 await setTimeout(async() => {
     try{
-        await clickpage(page,'.nestedTopicLnk ',14);
+        await clickpage(page,'.nestedTopicLnk ',24);
        setTimeout(async() => {
           try{
-            await clickpage(page,'.nestedTopicLnk ',2);
+            await clickpage(page,'.nestedTopicLnk ',0);
             setTimeout(async() => {
               try{
                 await clickpage(page,'.nestedTopicLnk ',0);
