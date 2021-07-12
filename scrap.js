@@ -40,9 +40,9 @@ await page.click('form input[name="data[Utilisateur][Login]"]');
 
 await page.type('form input[name="data[Utilisateur][Login]"]', "user", { delay: 100 });
 
-await page.type('form input[name="data[Utilisateur][Client_Nom]"]', "casabaia", { delay: 100 });
+await page.type('form input[name="data[Utilisateur][Client_Nom]"]', "xxxxxx", { delay: 100 });
 
-await page.type('form input[name="data[Utilisateur][PassMD5]"]', "CASA@arma2020", { delay: 100 });
+await page.type('form input[name="data[Utilisateur][PassMD5]"]', "xxxx@xxx", { delay: 100 });
 
 
 await page.click('button');
